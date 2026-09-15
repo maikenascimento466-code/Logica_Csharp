@@ -1,0 +1,14 @@
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.AssemblyInfoInputs.cache
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.AssemblyInfo.cs
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\source\repos\ConsoleMK3\bin\Debug\net10.0\ConsoleMK3.exe
+C:\Users\maike.njesus\source\repos\ConsoleMK3\bin\Debug\net10.0\ConsoleMK3.deps.json
+C:\Users\maike.njesus\source\repos\ConsoleMK3\bin\Debug\net10.0\ConsoleMK3.runtimeconfig.json
+C:\Users\maike.njesus\source\repos\ConsoleMK3\bin\Debug\net10.0\ConsoleMK3.dll
+C:\Users\maike.njesus\source\repos\ConsoleMK3\bin\Debug\net10.0\ConsoleMK3.pdb
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.dll
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\refint\ConsoleMK3.dll
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.pdb
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ConsoleMK3.genruntimeconfig.cache
+C:\Users\maike.njesus\source\repos\ConsoleMK3\obj\Debug\net10.0\ref\ConsoleMK3.dll

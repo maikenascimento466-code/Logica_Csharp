@@ -1,0 +1,4 @@
+C:\Users\maike.njesus\source\repos\ConsoleMK1\obj\Debug\net10.0\ConsoleMK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maike.njesus\source\repos\ConsoleMK1\obj\Debug\net10.0\ConsoleMK1.AssemblyInfoInputs.cache
+C:\Users\maike.njesus\source\repos\ConsoleMK1\obj\Debug\net10.0\ConsoleMK1.AssemblyInfo.cs
+C:\Users\maike.njesus\source\repos\ConsoleMK1\obj\Debug\net10.0\ConsoleMK1.csproj.CoreCompileInputs.cache
