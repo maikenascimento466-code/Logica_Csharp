@@ -1,0 +1,7 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\obj\Debug\atividade 2 C#.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\obj\Debug\atividade 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\bin\Debug\atividade 2 C#.exe.config
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\bin\Debug\atividade 2 C#.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\bin\Debug\atividade 2 C#.pdb
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\obj\Debug\atividade 2 C#.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\atividade 2 C#\obj\Debug\atividade 2 C#.pdb

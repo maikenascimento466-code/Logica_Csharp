@@ -1,0 +1,7 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\obj\Debug\Caucular desconto.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\obj\Debug\Caucular desconto.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\bin\Debug\Caucular desconto.exe.config
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\bin\Debug\Caucular desconto.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\bin\Debug\Caucular desconto.pdb
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\obj\Debug\Caucular desconto.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Caucular desconto\obj\Debug\Caucular desconto.pdb

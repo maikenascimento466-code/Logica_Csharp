@@ -1,0 +1,7 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\bin\Debug\vinho.exe.config
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\bin\Debug\vinho.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\bin\Debug\vinho.pdb
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\obj\Debug\vinho.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\obj\Debug\vinho.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\obj\Debug\vinho.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\vinho\obj\Debug\vinho.pdb

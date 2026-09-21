@@ -1,0 +1,7 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\bin\Debug\anobisexto.exe.config
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\bin\Debug\anobisexto.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\bin\Debug\anobisexto.pdb
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\obj\Debug\anobisexto.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\obj\Debug\anobisexto.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\obj\Debug\anobisexto.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\anobisexto\obj\Debug\anobisexto.pdb

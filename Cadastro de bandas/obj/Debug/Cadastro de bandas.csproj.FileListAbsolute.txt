@@ -1,0 +1,2 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Cadastro de bandas\obj\Debug\Cadastro de bandas.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Cadastro de bandas\obj\Debug\Cadastro de bandas.csproj.CoreCompileInputs.cache

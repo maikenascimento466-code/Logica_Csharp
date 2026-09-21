@@ -1,0 +1,2 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache

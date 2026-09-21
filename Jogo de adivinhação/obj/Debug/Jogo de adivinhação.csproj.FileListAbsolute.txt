@@ -1,0 +1,7 @@
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\bin\Debug\Jogo de adivinhação.exe.config
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\bin\Debug\Jogo de adivinhação.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\bin\Debug\Jogo de adivinhação.pdb
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\obj\Debug\Jogo de adivinhação.csproj.AssemblyReference.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\obj\Debug\Jogo de adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\obj\Debug\Jogo de adivinhação.exe
+C:\Users\maike.njesus\Documents\GitHub\Logica_Csharp\Jogo de adivinhação\obj\Debug\Jogo de adivinhação.pdb
